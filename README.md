@@ -6,7 +6,7 @@ Thermal Infrared (TIR) images capturing fire behavior, collected by a Matrice dr
 
 Example: 0117_0330th.tiff
 
-in which, 0117 = the data corresponding to RGB video DJI_0117.mov  
+- 0117 = the data corresponding to RGB video DJI_0117.mov  
 - 0330 = the moment at the 3rd minute and 30 seconds since the RGB video 0117 started.  
 - th: this is TIR data. The data is RGB banded if it is named without "the"  
 
