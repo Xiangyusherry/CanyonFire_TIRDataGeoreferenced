@@ -2,15 +2,15 @@
 
 **Thermal Infrared (TIR)** images capturing fire behavior, collected by a Matrice drone, are georeferenced to a 9cm-resolution optical spectrum (RGB) base map with high positional accuracy (within 1 meter).
 
-# Data Creator Information
-- Bo Yang and Owen Hussey. Collected real-time visual and TIR video footage of fire behavior using a Matrice 200 drone equipped with a FLIR Zenmuse XT2 payload combining FLIR’s Tau 2 thermal sensor and 12MP visual camera.
-- Xiangyu Ren. Georeferenced the high-resolution RGB base map. Built up a rigorous georeference workflow of georeferencing TIR drone remote sensing data with high accuracy. Georeferenced all 127 keyframes using ArcMap.
-
 # Data Information
 
 A total of 59 minutes of TIR video and the simultaneous RGB video capturing the fire from the drone were taken during the prescribed fire. Among 118 TIR keyframes and 118 RGB keyframes, there are 127 keyframes of the prescribed fire successfully georeferenced. Among them, 106 keyframes from TIR videos, cover about 53 mins of the fire behavior videos, which is 84.1% of the whole video. And there were 21 keyframes from the RGB camera helping to locate the drone. 
 
 The average total Root Mean Squared Error (RMSE) of all the georeferenced keyframes was 1.12m, representing a high accuracy.
+
+# Data Creator Information
+- Bo Yang and Owen Hussey. Collected real-time visual and TIR video footage of fire behavior using a Matrice 200 drone equipped with a FLIR Zenmuse XT2 payload combining FLIR’s Tau 2 thermal sensor and 12MP visual camera.
+- Xiangyu Ren. Georeferenced the high-resolution RGB base map. Built up a rigorous georeference workflow of georeferencing TIR drone remote sensing data with high accuracy. Georeferenced all 127 keyframes using ArcMap.
 
 # TIR data are named after the same method as follows.
 
