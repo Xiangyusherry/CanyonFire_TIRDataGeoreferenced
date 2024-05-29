@@ -36,4 +36,4 @@ Bo Yang
 
 Email: bo.yang02@sjsu.edu
 
-Thank you for your interest in our data.
+Thank you.
