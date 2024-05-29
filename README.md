@@ -25,3 +25,15 @@ TIR images are georeferenced with high accuracy within 1 meter.
 # TIR images can be downloaded through this link
 
 https://drive.google.com/drive/folders/1684VeTtn_MYnPoiNka0hqSWhqUgTjxCP?usp=sharing 
+
+For inquiries regarding access to the dataset, please contact:
+
+Xiangyu Ren
+
+Email: xiangyu.ren@sjsu.edu
+
+Bo Yang
+
+Email: bo.yang02@sjsu.edu
+
+Thank you for your interest in our data.
