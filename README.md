@@ -2,6 +2,11 @@
 
 Thermal Infrared (TIR) images capturing fire behavior, collected by a Matrice drone, are georeferenced to a base map with high positional accuracy (within 1 meter).
 
+# Creator Information
+- Bo Yang and Owen Hussey. Collected real-time visual and TIR video footage using Matrice 200 drone equipped with a FLIR Zenmuse XT2 payload combining FLIR’s Tau 2 thermal sensor and 12MP visual camera.
+- 
+
+
 # TIR data are named after the same method as follows.
 
 Example: 0117_0330th.tiff
